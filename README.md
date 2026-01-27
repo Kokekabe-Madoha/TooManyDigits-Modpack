@@ -12,7 +12,10 @@ LogisticsPipes
 https://ci.rs485.network/view/all/job/LogisticsPipes-0.10-mc17-bc7/79/artifact/build/libs/logisticspipes-0.10.0.79.jar
 
 無限チェスト（20億チェスト）  
-https://web.archive.org/web/20190715132729/https://dl.dropboxusercontent.com/s/p353v45f7y7ewjw/InfinityChest-1.7.10-1.2.8.jar
+https://web.archive.org/web/20190715132729/https://dl.dropboxusercontent.com/s/p353v45f7y7ewjw/InfinityChest-1.7.10-1.2.8.jar  
+
+ストレージボックス  
+https://forum.civa.jp/viewtopic.php?t=815
 ## Config変更
 - 圧縮Torcherino、二倍圧縮Torcherinoが作れます。  
 - ロジパイプに電源は要りません。  
