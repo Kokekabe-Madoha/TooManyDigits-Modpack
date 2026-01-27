@@ -15,7 +15,7 @@ https://ci.rs485.network/view/all/job/LogisticsPipes-0.10-mc17-bc7/79/artifact/b
 https://web.archive.org/web/20190715132729/https://dl.dropboxusercontent.com/s/p353v45f7y7ewjw/InfinityChest-1.7.10-1.2.8.jar  
 
 ストレージボックス  
-https://forum.civa.jp/viewtopic.php?t=815
+https://drive.google.com/file/d/1Wm440RBR1D55FUpuQq5ENpQszIWSOumW/view
 ## Config変更
 - 圧縮Torcherino、二倍圧縮Torcherinoが作れます。  
 - ロジパイプに電源は要りません。  
