@@ -17,3 +17,5 @@ https://web.archive.org/web/20190715132729/https://dl.dropboxusercontent.com/s/p
 - 圧縮Torcherino、二倍圧縮Torcherinoが作れます。  
 - ロジパイプに電源は要りません。  
 - 司空の指輪が作れます。
+# 豆知識
+ロジパイプのパイプコントローラーで適当なロジパイプをShift＋右クリックして、「Use New Renderer」の✅を外すと見た目が古くなります。
