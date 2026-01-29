@@ -14,7 +14,6 @@ https://x.com/unyuho123/status/1294277283927085056?s=20
 StorageBox Fixed  
 https://forum.civa.jp/viewtopic.php?t=815
 ## Config変更
-- 圧縮Torcherino、二倍圧縮Torcherinoが作れます。  
 - ロジパイプに電源は要りません。  
 - 司空の指輪が作れます。
 ## 豆知識
