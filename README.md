@@ -11,9 +11,6 @@ https://sourceforge.net/projects/yogpstopmcmods/files/Alpha/jar/QuarryPlus/Minec
 ReverseCraft  
 https://x.com/unyuho123/status/1294277283927085056?s=20
 
-無限チェスト（20億チェスト）  
-https://web.archive.org/web/20190715132729/https://dl.dropboxusercontent.com/s/p353v45f7y7ewjw/InfinityChest-1.7.10-1.2.8.jar  
-
 StorageBox Fixed  
 https://forum.civa.jp/viewtopic.php?t=815
 ## Config変更
