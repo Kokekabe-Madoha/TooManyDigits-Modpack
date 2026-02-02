@@ -8,7 +8,8 @@
 - 改良型クァーリーで堀り尽くす
 - 鉄道建設
 ## 注意
-FileDirectorがmodをダウンロードした後クラッシュするので、再起動してください。
+- FileDirectorがmodをダウンロードした後クラッシュするので、再起動してください。
+- Lwjgl3ifyではテストされていません。
 ## 追加mod（直リンク失礼）
 竹mod  
 https://web.archive.org/web/20190715123938/http://forum.minecraftuser.jp/download/file.php?id=55252  
