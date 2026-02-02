@@ -1,6 +1,8 @@
 # TooManyDigits!
 - けっこう隠居な1.7.10モッドパック
 - クエスト無し、目標無し
+## 注意
+FileDirectorがmodをダウンロードした後クラッシュするので、再起動してください。
 ## 追加mod（直リンク失礼）
 竹mod  
 https://web.archive.org/web/20190715123938/http://forum.minecraftuser.jp/download/file.php?id=55252  
