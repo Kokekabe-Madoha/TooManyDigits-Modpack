@@ -11,7 +11,7 @@
 - FileDirectorがmodをダウンロードした後にラッシュするので、再起動してください。
 - Lwjgl3ifyではテストされていません。
 ## 追加mod（直リンク失礼）
-竹mod  
+竹mod（BambooMod）  
 https://web.archive.org/web/20190715123938/http://forum.minecraftuser.jp/download/file.php?id=55252  
 
 ReverseCraft  
@@ -22,7 +22,12 @@ https://x.com/unyuho123/status/1294277283927085056?s=20
 StorageBox Fixed  
 https://drive.google.com/file/d/1Wm440RBR1D55FUpuQq5ENpQszIWSOumW/view  
 元リンク  
-https://forum.civa.jp/viewtopic.php?t=815
+https://forum.civa.jp/viewtopic.php?t=815  
+
+ItemDelocalizer（UntranslatedItems）  
+https://drive.google.com/file/d/10iQl8_0WFvulnavjlz-bqTbplTzEwoHQ/view  
+元リンク  
+https://x.com/bre2el1/status/1154890928043151360  
 ## Config変更
 - ロジパイプに電源は要りません。  
 - 司空の指輪が作れます。
