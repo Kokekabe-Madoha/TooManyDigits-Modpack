@@ -14,6 +14,9 @@
 竹mod（BambooMod）  
 https://web.archive.org/web/20190715123938/http://forum.minecraftuser.jp/download/file.php?id=55252  
 
+無限チェスト（20億チェスト）  
+https://web.archive.org/web/20190715132729/https://dl.dropboxusercontent.com/s/p353v45f7y7ewjw/InfinityChest-1.7.10-1.2.8.jar  
+
 ReverseCraft  
 https://www.dropbox.com/scl/fi/ezewal9s60ar364h08g80/ReverseCraft-4.1.1.jar?rlkey=049e1qkol9b93ra2qqgs2psce&e=1&dl=0  
 元リンク  
