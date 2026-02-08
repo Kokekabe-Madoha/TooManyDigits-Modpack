@@ -9,7 +9,7 @@
 - 鉄道建設
 ## 注意
 - FileDirectorがmodをダウンロードした後にラッシュするので、再起動してください。
-- Lwjgl3ifyではテストされていません。
+- 基本Java8の方が無難ですが、Lwjgl3ifyの方がAngelicaの描画バグが少ないかもしれません。
 ## 追加mod（直リンク失礼）
 竹mod（BambooMod）  
 https://web.archive.org/web/20190715123938/http://forum.minecraftuser.jp/download/file.php?id=55252  
@@ -24,7 +24,7 @@ https://drive.google.com/file/d/1Wm440RBR1D55FUpuQq5ENpQszIWSOumW/view
 元リンク  
 https://forum.civa.jp/viewtopic.php?t=815  
 
-ItemDelocalizer（UntranslatedItems）  
+ItemDelocalizer（UntranslatedItems、Lwjgl3ifyでは使用不可）  
 https://drive.google.com/file/d/10iQl8_0WFvulnavjlz-bqTbplTzEwoHQ/view  
 元リンク  
 https://x.com/bre2el1/status/1154890928043151360  
