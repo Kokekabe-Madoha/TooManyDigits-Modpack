@@ -9,7 +9,7 @@
 - 鉄道建設
 ## 注意
 - FileDirectorがmodをダウンロードした後にラッシュするので、再起動してください。
-- 基本Java8の方が無難ですが、Lwjgl3ifyの方がAngelicaの描画バグが少ないかもしれません。
+- 基本Java8の方が無難。
 ## 追加mod（直リンク失礼）
 竹mod（BambooMod）  
 https://web.archive.org/web/20190715123938/http://forum.minecraftuser.jp/download/file.php?id=55252  
