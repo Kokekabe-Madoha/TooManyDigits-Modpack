@@ -1,15 +1,18 @@
 # TooManyDigits!
-- けっこう隠居な1.7.10モッドパック
+- それなりに隠居な1.7.10モッドパック
 - クエスト無し
 ## 目標
-- 53万永久光の作成
-- 超エンジンの作成（運要素の無いCompactEngineの方をおすすめします）
-- 究極型AEGUの作成
-- 改良型クァーリーで堀り尽くす
-- 鉄道建設
-## 注意
+- 53万永久光の作成。
+- 超エンジンの作成（運要素の無いCompactEngineの方をおすすめします）。
+- 究極型AEGUの作成。
+- 改良型クァーリーで堀り尽くす。
+- 乗り物に乗って楽しむ。
+## 注意＆補足
 - FileDirectorがmodをダウンロードした後にラッシュするので、再起動してください。
-- 基本Java8の方が無難。
+- Lwjgl3ifyも使えます。  
+https://madoha-4862.hatenablog.jp/entry/2025/01/28/220720
+- UgoCraftはForge非対応なのでバニラで遊びましょう。  
+https://www.maocat.net/?page_id=7482
 ## 追加mod（直リンク失礼）
 竹mod（BambooMod）  
 https://web.archive.org/web/20190715123938/http://forum.minecraftuser.jp/download/file.php?id=55252  
