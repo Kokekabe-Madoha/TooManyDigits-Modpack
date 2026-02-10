@@ -14,6 +14,7 @@
 - Java8 EclipseAdoptium 8u472  
 - Java25 EclipseAdoptium 25.0.1（Lwjgl3ify）  
 https://madoha-4862.hatenablog.jp/entry/2025/01/28/220720
+- メモリ割り当て：2GB～4GB
 ## 注意＆補足
 - FileDirectorがmodをダウンロードした後にクラッシュするので、再起動してください。
 - 時流計が強すぎるので縛った方が良いかもしれません。  
