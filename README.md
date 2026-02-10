@@ -15,7 +15,7 @@
 - Java25 EclipseAdoptium 25.0.1（Lwjgl3ify）  
 https://madoha-4862.hatenablog.jp/entry/2025/01/28/220720
 ## 注意＆補足
-- FileDirectorがmodをダウンロードした後にラッシュするので、再起動してください。
+- FileDirectorがmodをダウンロードした後にクラッシュするので、再起動してください。
 - 時流計が強すぎるので縛った方が良いかもしれません。  
 - UgoCraftはForge非対応なのでバニラで遊びましょう。  
 https://www.maocat.net/?page_id=7482
