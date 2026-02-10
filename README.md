@@ -2,15 +2,21 @@
 - それなりに隠居な1.7.10モッドパック
 - クエスト無し
 ## 目標
-- 53万永久光の作成。
-- 超エンジンの作成（運要素の無いCompactEngineの方をおすすめします）。
-- 究極型AEGUの作成。
-- 改良型クァーリーで堀り尽くす。
-- 乗り物に乗って楽しむ。
+①改良型クァーリーで堀り尽くす。  
+②究極型AEGUの作成。  
+③アドバンスド クアンタム装備の作成。  
+④超エンジン黒猫の作成。  
+⑤53万永久光＆MFVU可変圧蓄電器の作成。  
+⑥マターの量産。  
+⑦建築や鉄道、軍事を楽しむ。  
+## 推奨環境
+- PrismLauncher（その他CurseForge形式のModpackが扱えるランチャー）
+- Java8 EclipseAdoptium 8u472  
+- Java25 EclipseAdoptium 25.0.1（Lwjgl3ify）  
+https://madoha-4862.hatenablog.jp/entry/2025/01/28/220720
 ## 注意＆補足
 - FileDirectorがmodをダウンロードした後にラッシュするので、再起動してください。
-- Lwjgl3ifyも使えます。  
-https://madoha-4862.hatenablog.jp/entry/2025/01/28/220720
+- 時流計が強すぎるので縛った方が良いかもしれません。  
 - UgoCraftはForge非対応なのでバニラで遊びましょう。  
 https://www.maocat.net/?page_id=7482
 ## 追加mod（直リンク失礼）
