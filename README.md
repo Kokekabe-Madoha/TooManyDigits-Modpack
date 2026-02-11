@@ -11,8 +11,9 @@
 ⑦建築や鉄道、軍事を楽しむ。  
 ## 推奨環境
 - PrismLauncher（その他CurseForge形式のModpackが扱えるランチャー）
-- Java8 EclipseAdoptium 8u472  
-- Java25 EclipseAdoptium 25.0.1（Lwjgl3ify）  
+- Java8 EclipseAdoptium 8u472（Lwjgl3ifyを削除する）
+- Java25 EclipseAdoptium 25.0.1
+Lwjgl3ifyの使い方
 https://madoha-4862.hatenablog.jp/entry/2025/01/28/220720
 - メモリ割り当て：2GB～4GB
 ## 注意＆補足
