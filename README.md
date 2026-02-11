@@ -17,7 +17,6 @@ https://madoha-4862.hatenablog.jp/entry/2025/01/28/220720
 - メモリ割り当て：2GB～4GB
 ## 注意＆補足
 - FileDirectorがmodをダウンロードした後にクラッシュするので、再起動してください。
-- 時流計が強すぎるので縛った方が良いかもしれません。  
 - UgoCraftはForge非対応なのでバニラで遊びましょう。  
 https://www.maocat.net/?page_id=7482
 ## 追加mod（直リンク失礼）
@@ -39,15 +38,13 @@ StorageBox Fixed
 https://drive.google.com/file/d/1Wm440RBR1D55FUpuQq5ENpQszIWSOumW/view  
 元リンク  
 https://forum.civa.jp/viewtopic.php?t=815  
-
-ItemDelocalizer（UntranslatedItems、Lwjgl3ifyでは使用不可）  
-https://drive.google.com/file/d/10iQl8_0WFvulnavjlz-bqTbplTzEwoHQ/view  
-元リンク  
-https://x.com/bre2el1/status/1154890928043151360  
 ## Config変更
 - ロジパイプに電源は要りません。  
 - 司空の指輪が作れます。
 - テレポートテザーが作れません。
+- 時流計が作れません。  
+- EtFuturumRequiemの不要な要素を無効にしています。
+- IC2Classicと共存できるようにHodgePodgeのIC2Ex関連の機能を無効にしています。
 ## 豆知識
 - ロジパイプのパイプコントローラーで適当なロジパイプをShift＋右クリックして、「Use New Renderer」の✅を外すと見た目が古くなります。
 - リソースパックのModernityで最新バージョンのテクスチャになります。
