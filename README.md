@@ -26,7 +26,7 @@
 - Java25 EclipseAdoptium 25.0.1
 Lwjgl3ifyの使い方
 https://madoha-4862.hatenablog.jp/entry/2025/01/28/220720
-- メモリ割り当て：2GB～4GB
+- メモリ割り当て：2GB～6GB
 ## 注意＆補足
 - FileDirectorがmodをダウンロードした後にクラッシュするので、再起動してください。
 - UgoCraftはForge非対応なのでバニラで遊びましょう。  
