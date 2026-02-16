@@ -54,8 +54,6 @@ https://forum.civa.jp/viewtopic.php?t=815
 - ロジパイプに電源は要りません。  
 - 司空の指輪が作れます。
 - テレポートテザーが作れません。
-- 時流計が作れません。  
-- EtFuturumRequiemの不要な要素を無効にしています。
 - IC2Classicと共存できるようにHodgePodgeのIC2Ex関連の機能を無効にしています。
 ## 豆知識
 - ロジパイプのパイプコントローラーで適当なロジパイプをShift＋右クリックして、「Use New Renderer」の✅を外すと見た目が古くなります。
