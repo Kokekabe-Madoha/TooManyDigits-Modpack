@@ -15,15 +15,14 @@
 - 超エンジン黒猫の量産。
 - 精密レーザーMk5の量産。
 - 精密レーザーMk5と超エンジン黒猫で埋め尽くしたレーザー加工所を作る。   
-※最後のは結構理不尽なので時流計やTorcherinoを使った方が良いかもしれません。
 ## 目標（おまけ）
 - クラインの星Jupiterの作成。
 - 超エンジン黒王の作成。
 - 超ポンプ改の作成。
 ## 推奨環境
 - PrismLauncher（その他CurseForge形式のModpackが扱えるランチャー）
-- Java8 EclipseAdoptium 8u472（Lwjgl3ifyを削除する）
-- Java25 EclipseAdoptium 25.0.1
+- Java8 EclipseAdoptium 8u482（Lwjgl3ifyを削除する）
+- Java25 EclipseAdoptium 25.0.2
 Lwjgl3ifyの使い方
 https://madoha-4862.hatenablog.jp/entry/2025/01/28/220720
 - メモリ割り当て：2GB～6GB
