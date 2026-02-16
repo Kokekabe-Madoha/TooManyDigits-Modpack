@@ -22,7 +22,7 @@
 ## 推奨環境
 - PrismLauncher（その他CurseForge形式のModpackが扱えるランチャー）
 - Java8 EclipseAdoptium 8u482
-- Java25 EclipseAdoptium 25.0.2（Lwjgl3ify）
+- Java25 EclipseAdoptium 25.0.2（Lwjgl3ify）  
 Lwjgl3ifyの使い方
 https://madoha-4862.hatenablog.jp/entry/2025/01/28/220720
 - メモリ割り当て：2GB～6GB
