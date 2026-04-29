@@ -8,7 +8,7 @@
 ④53万永久光＆MFVU可変圧蓄電器の作成。  
 ⑤アドバンスド クアンタム装備の作成。  
 ⑥超エンジン黒猫の作成。  
-⑦建築や鉄道、軍事を楽しむ。  
+⑦建築や鉄道を楽しむ。  
 ## 目標（裏）
 - 53万永久光の量産
 - 核分裂コア、核融合コアの量産。
@@ -28,8 +28,11 @@ https://madoha-4862.hatenablog.jp/entry/2025/01/28/220720
 - メモリ割り当て：2GB～6GB
 ## 注意＆補足
 - FileDirectorがmodをダウンロードした後にクラッシュするので、再起動してください。
-- UgoCraftはForge非対応なのでバニラで遊びましょう。  
+- UgoCraftはForge非対応なのでバニラで遊びましょう。
 https://www.maocat.net/?page_id=7482
+- 木エンジン改とAkutoエンジンは同じなようで微妙に仕様が違うので、それぞれの特性を利用してみて下さい。
+- 最新のAngelicaを使用しているため、互換性の問題があるかもしれません。
+- AkutoEngineのEU蓄電器を作ることができますが、置くとクラッシュして、MCEditで消さないとワールドに入れなくなります。
 ## 追加mod（直リンク失礼）
 竹mod（BambooMod）  
 https://web.archive.org/web/20190715123938/http://forum.minecraftuser.jp/download/file.php?id=55252  
